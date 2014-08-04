@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\jiggly\Documents\NetBeansProjects\vpn\dist\vpn.jar</jar>
+  <outfile>C:\Users\jiggly\Desktop\TR Closer\TRCloser.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>idle</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\jiggly\Desktop\TR Closer\agV5ZtA.ico</icon>
+  <singleInstance>
+    <mutexName>{c96f7db4-d743-4718-bef0-8533cca}</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.1.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Closes an application based on your wan address</fileDescription>
+    <copyright>Oracle</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>TR Closer</productName>
+    <companyName></companyName>
+    <internalName>TR Closer</internalName>
+    <originalFilename>vpn.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
